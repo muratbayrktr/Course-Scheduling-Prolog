@@ -1,0 +1,12 @@
+capacity(bmb1,180).
+room(bmb1).
+capacity(bmb2,80).
+room(bmb2).
+capacity(bmb3,80).
+room(bmb3).
+capacity(bmb4,60).
+room(bmb4).
+capacity(bmb5,60).
+room(bmb5).
+capacity(bmb_a101,25).
+room(bmb_a101).
